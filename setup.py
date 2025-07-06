@@ -8,4 +8,4 @@ def hello():
 
 @app.get("/about")
 def about():
-    return {'message':' this is about page'}  
+    return {'message':' this is about page'}
